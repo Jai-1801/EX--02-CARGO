@@ -43,3 +43,7 @@ STEP 6: Verify the output in the terminal. <BR>
 fn main() {
     println!("Hello, Rust with Cargo!");
 }
+
+## OUTPUT:
+
+## RESULT:
